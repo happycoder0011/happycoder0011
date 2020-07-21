@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **happycoder0011/happycoder0011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
