@@ -9,9 +9,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - - 🔭 I’m currently working on
+- - 🌱 I’m currently learning  D3js and exploring more about Data Visualization
+
 -->
 
-- 🌱 I’m currently learning  D3js and exploring more about Data Visualization
 
 
 ## ⚡ Technologies
