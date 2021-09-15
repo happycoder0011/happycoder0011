@@ -1,35 +1,57 @@
 <!--
 **happycoder0011/happycoder0011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- - 🔭 I’m currently working on
-- - 🌱 I’m currently learning  D3js and exploring more about Data Visualization
-
 -->
+Hi there 👋 
+#### 🤔 I’m trying to turn my ideas into code
+#### 💬 Talk to me about React | Web Tech | cats and food(not catfood!) or anything and everything ;)
+#### 🌱 I’m currently learning  TypeScript and Redux
 
 
 
-## ⚡ Technologies
+## ✨ I love to build around:
+<!-- Row 1 [START] -->
+<div>
+  <img align="left" src="https://img.icons8.com/dusk/64/000000/html-5.png"/>
+  <img align="left" src="https://img.icons8.com/dusk/64/000000/css3.png"/>
+	<img align="left" src="https://img.icons8.com/dusk/64/000000/javascript-logo.png"/>
+  <img src="https://img.icons8.com/color/64/000000/c-plus-plus-logo.png"/>
+  <img align="left" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+  <img align="left" src="https://img.icons8.com/color/64/000000/material-ui.png"/>
+  <img align="left" src="https://img.icons8.com/nolan/64/mysql.png"/>
+	<img align="left" src="https://img.icons8.com/dusk/64/000000/python.png"/>
+</div>
+<br />
+<!-- Row 1 [END] -->
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![C++](https://img.shields.io/badge/-C++-white?logo=c%2B%2B&logoColor=00599C&style=flat-square)
-![React](https://img.shields.io/badge/-ReactJS-blue?logo=react&logoColor=white&style=flat-square)
-![MySQL](https://img.shields.io/badge/-MySQL-white?logo=MySQL&style=flat-square)
-![Express](https://img.shields.io/badge/-Express-grey?logo=Express&logoColor=white&style=flat-square)
-![Firebase](https://img.shields.io/badge/-Firebase-black?logo=Firebase&logoColor=yellow&style=flat-square)
-![Python](https://img.shields.io/badge/-Python-yellow?logo=Python&logoColor=blue&style=flat-square)
+<!-- Row 2 [START] -->
+<div>
+	<img align="left" src="https://img.icons8.com/dusk/64/000000/code-fork.png"/>
+  <img align="left" src="https://img.icons8.com/color/64/000000/google-firebase-console.png"/>
+  <img align="left" src="https://img.icons8.com/color/64/000000/nodejs.png"/>
+  <img align="left" src="https://img.icons8.com/dusk/64/000000/react.png"/>
+  <img src="https://img.icons8.com/color/64/000000/typescript.png"/>
+</div>
+<br />
+<!-- Row 2 [END] -->
+
+<!-- Row 3 [START] -->
+<div>
+	<img align="left" src="https://img.icons8.com/dusk/64/000000/postman-api.png"/>
+	<img align="left" src="https://img.icons8.com/dusk/64/000000/visual-studio-code-insides.png"/>
+	<img align="left" src="https://img.icons8.com/fluent/96/000000/sublime-text.png" width="64" />
+  <img align="left" src="https://img.icons8.com/dusk/64/000000/github.png"/>
+  <img src="https://img.icons8.com/color/64/000000/figma--v1.png"/>
+</div>
+<br />
+<!-- Row 3 [END] -->
+
+<!-- Row 4 [START] -->
+<div>
+	
+</div>
+<br />
+
+<!-- Row 4 [END] -->
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=happycoder0011&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
