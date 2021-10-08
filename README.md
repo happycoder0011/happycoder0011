@@ -5,7 +5,7 @@ Hi there 👋
 #### 🤔 I’m trying to turn my ideas into code
 #### 💬 Talk to me about React | Web Tech | cats and food(not catfood!) or anything and everything ;)
 #### 🌱 I’m currently learning  TypeScript and Redux
-
+#### ✨ I believe in the power of data. Curious about Data Science and ML algorithms. 
 
 
 ## ✨ I love to build around:
