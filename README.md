@@ -3,8 +3,8 @@
 -->
 Hi there 👋 
 #### 🤔 I’m trying to turn my ideas into code
-#### 💬 Talk to me about React | Web Tech | cats and food(not catfood!) or anything and everything ;)
-#### 🌱 I’m currently learning  TypeScript and Redux
+#### 💬 Talk to me about React | Web Tech | cats and travelling or anything and everything ;)
+#### 🌱 I’m currently learning  Go and TypeScript
 #### ✨ I believe in the power of data. Curious about Data Science and ML algorithms. 
 
 
