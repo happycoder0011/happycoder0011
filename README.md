@@ -5,7 +5,7 @@ Hi there 👋
 #### 🤔 I’m trying to turn my ideas into code
 #### 💬 Talk to me about React | Web Tech | cats and travelling or anything and everything ;)
 #### 🌱 I’m currently learning  Go and TypeScript
-#### ✨ I believe in the power of data. Curious about Data Science and ML algorithms. 
+#### ✨ I believe in the power of data. Love to read about ML algorithms and statistical methods. 
 
 
 ## ✨ I love to build around:
