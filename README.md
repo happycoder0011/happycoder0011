@@ -5,7 +5,7 @@ Hi there 👋
 #### 🤔 I’m trying to turn my ideas into code
 #### 💬 Talk to me about React | Web Tech | cats and travelling or anything and everything ;)
 #### 🌱 I’m currently learning  Go and TypeScript
-#### ✨ Currently working on PeakProd - A baised productivity tool for me to manage goals, habits and track everything else simpler. 
+#### ✨ Currently working on PeakProd - A baised productivity tool to manage goals, habits making it simpler to track. 
 
 ## ✨ I build around:
 <!-- Row 1 [START] -->
