@@ -5,10 +5,9 @@ Hi there 👋
 #### 🤔 I’m trying to turn my ideas into code
 #### 💬 Talk to me about React | Web Tech | cats and travelling or anything and everything ;)
 #### 🌱 I’m currently learning  Go and TypeScript
-#### ✨ I believe in the power of data. Love to read about ML algorithms and statistical methods. 
+#### ✨ Currently working on PeakProd - A baised productivity tool for me to manage goals, habits and track everything else simpler. 
 
-
-## ✨ I love to build around:
+## ✨ I build around:
 <!-- Row 1 [START] -->
 <div>
   <img align="left" src="https://img.icons8.com/dusk/64/000000/html-5.png"/>
