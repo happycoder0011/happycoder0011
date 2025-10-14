@@ -4,9 +4,8 @@
 Hi there 👋 
 #### 🤔 I’m trying to turn my ideas into code
 #### 💬 Talk to me about React | Web Tech | cats and travelling or anything and everything ;)
-#### 🌱 I’m currently learning  Go and TypeScript
-#### ✨ Currently working on PeakProd - A baised productivity tool to manage goals, habits making it simpler to track. 
-
+#### 🌱 I’m currently learning Rust
+#### ✨ Currently working on building reliable coding agent cli (Claude code fork !) at Delta Residency.
 ## ✨ I build around:
 <!-- Row 1 [START] -->
 <div>
