@@ -4,8 +4,8 @@
 Hi there 👋 
 #### 🤔 I’m trying to turn my ideas into code
 #### 💬 Talk to me about React | Web Tech | cats and travelling or anything and everything ;)
-#### 🌱 I’m currently learning Rust
-#### ✨ Currently working on building reliable coding agent cli (Claude code fork !) at Delta Residency.
+#### 🌱 I’m currently exploring Systems Programming 
+#### 🔥 Checkout https://github.com/Origin-pod for my recent Deep vibe codes
 ## ✨ I build around:
 <!-- Row 1 [START] -->
 <div>
