@@ -5,7 +5,7 @@ Hi there 👋
 #### 🤔 I’m trying to turn my ideas into code
 #### 💬 Talk to me about React | Web Tech | cats and travelling or anything and everything ;)
 #### 🌱 I’m currently exploring Systems Programming 
-#### 🔥 Checkout https://github.com/Origin-pod for my recent Deep vibe codes
+#### 🔥 Checkout https://github.com/Origin-pod for my vibe coded solutions for productivity and Knowledge gathering.
 ## ✨ I build around:
 <!-- Row 1 [START] -->
 <div>
